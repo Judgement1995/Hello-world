@@ -1,5 +1,2 @@
 # Hello-world
-my repos
-Hello,
-
-I like PHP . JAVA and Javascript
+This is just a glance of my portfolio 
